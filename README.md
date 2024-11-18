@@ -1,8 +1,4 @@
-# Welcome to Remix!
-
-- 📖 [Remix docs](https://remix.run/docs)
-
-## Development
+#Naked bank
 
 Run the dev server:
 
