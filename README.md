@@ -1,5 +1,7 @@
 #Naked bank
 
+todo: fix auth
+
 Run the dev server:
 
 ```shellscript
